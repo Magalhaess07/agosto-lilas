@@ -156,3 +156,86 @@ label {
         flex-direction: row;
     }
 }
+
+/* Seção de Links */
+#links {
+    padding: 2rem;
+    text-align: center;
+    background-color: #ffe6ec;
+}
+
+#links h2 {
+    font-family: 'Baloo 2', cursive;
+    font-size: 2.5rem;
+    color: #d19fff;
+    margin-bottom: 1.5rem;
+}
+
+.link-card {
+    margin: 1.5rem 0;
+    text-align: center;
+    border: 2px solid #daa4f0;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: #d199ff;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: transform 0.3s;
+}
+
+.link-card:hover {
+    transform: scale(1.05);
+}
+
+.link-card a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.link-card a:hover {
+    color: #ffe6ec;
+}
+/* Seção de Links */
+#links {
+    padding: 2rem;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+#links h2 {
+    font-family: 'Baloo 2', cursive;
+    font-size: 2.5rem;
+    color: #cd97ff;
+    margin-bottom: 1.5rem;
+}
+
+.link-card {
+    margin: 1.5rem 0;
+    text-align: center;
+    border: 2px solid #e39eff;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: #e799ff;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: transform 0.3s;
+}
+
+.link-card:hover {
+    transform: scale(1.05);
+}
+
+.link-card a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.link-card a:hover {
+    color: #ffe6ec;
+}
