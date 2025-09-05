@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #c0a5ff;
+    background-color: #eeb5ff;
     color: #333;
     line-height: 1.6;
     overflow-x: hidden;
@@ -16,7 +16,7 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: h#c0a5ff;
+    background-color: h#eeb5ff;
     color: white;
     text-align: center;
     padding: 2.5rem;
@@ -25,7 +25,7 @@ header {
 header h1 {
     font-family: 'Baloo 2', cursive;
     font-size: 3.5rem;
-    color: #9d6afc;
+    color: #ffffff;
     animation: bounce 1.5s infinite alternate;
 }
 
@@ -78,7 +78,7 @@ header p {
 #about h2 {
     font-family: 'Baloo 2', cursive;
     font-size: 2.5rem;
-    color: #a782ff;
+    color: #eeb5ff;
 }
 
 #about p {
@@ -96,14 +96,14 @@ header p {
 #links h2 {
     font-family: 'Baloo 2', cursive;
     font-size: 2.5rem;
-    color: #c497ff;
+    color: #eeb5ff;
     margin-bottom: 1.5rem;
 }
 
 .link-card {
     margin: 1.5rem 0;
     text-align: center;
-    border: 2px solid #d08fee;
+    border: 2px solid #eeb5ff;
     padding: 1rem;
     border-radius: 10px;
     background-color: #c599ff;
@@ -130,7 +130,7 @@ header p {
 
 /* Rodapé */
 footer {
-    background-color: #cf66ff;
+    background-color: #eeb5ff;
     color: white;
     text-align: center;
     padding: 1.5rem;
